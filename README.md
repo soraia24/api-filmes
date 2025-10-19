@@ -72,5 +72,5 @@ A API armazena e disponibiliza dados como:
 
 
 # Autor e contato
-Soraia Araujo 
-github: https://github.com/soraia24 
+- Soraia Araujo 
+- github: https://github.com/soraia24 
