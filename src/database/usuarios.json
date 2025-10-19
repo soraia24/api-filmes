@@ -1,0 +1,21 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "login": "soraya.araujo",
+      "nome": "Soraya",
+      "email": "soraya.araujo@gmail.com",
+      "cel": 84999345448,
+      "senha": "$2b$10$IJA2SMRsyT6bJrMCDMY54uV7NW2m/x/aephnsedpSx40GP8AO.cly"
+    },
+    {
+      "id": 2,
+      "login": "admin",
+      "nome": "admin",
+      "email": "admin@gmail.com",
+      "cel": "84999998888",
+      "senha": "$2b$10$eQF6peuow3A1MiNlhFi3D.3gjy6dtmnjx0I1qYX4YirhD6KXvfrSi",
+      "role": "admin"
+    }
+  ]
+}
